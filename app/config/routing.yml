@@ -1,0 +1,4 @@
+rbwords:
+    resource: "@rbwordsBundle/Resources/config/routing.yml"
+    prefix:   /
+

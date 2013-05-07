@@ -1,0 +1,7 @@
+parameters:
+#    rbwords.example.class: cb\RBWordsBundle\Example
+
+services:
+#    rbwords.example:
+#        class: %rbwords.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

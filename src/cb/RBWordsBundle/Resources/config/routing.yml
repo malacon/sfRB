@@ -1,0 +1,3 @@
+rbwords_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: rbwordsBundle:Default:index }
